@@ -1,2 +1,2 @@
-# Lab-tasks
+# Programming-Lab-tasks
 Here's my collection of lab activities!
