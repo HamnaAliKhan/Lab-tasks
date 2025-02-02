@@ -1,2 +1,2 @@
 # Programming-Lab-tasks
-Here's my collection of lab activities!
+Here's my collection of lab activities of first semester!
